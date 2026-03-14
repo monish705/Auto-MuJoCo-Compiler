@@ -1,5 +1,11 @@
 # Mesh2MuJoCo
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-3.2.7-red.svg)
+![AI: Gemini](https://img.shields.io/badge/AI-Gemini_2.5_Flash-purple.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)
+
 > **Drop any 3D object → fully simulated physics scene in under 5 minutes.**  
 > No manual XML. No manual mass entry. No manual collision setup.
 
