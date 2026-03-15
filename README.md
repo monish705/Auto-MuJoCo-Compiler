@@ -1,4 +1,4 @@
-# Mesh2MuJoCo
+#  AutoSim.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
